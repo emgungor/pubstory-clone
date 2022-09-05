@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pubstory
 
 A new Flutter project.
